@@ -1,0 +1,31 @@
+
+
+
+.content .fotos{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+
+.content .fotos img{
+    width: 200px;
+    height: 200px;
+    border: 2px solid #444;
+}
+
+.content .fotos img:hover{
+    cursor: pointer;
+   border: 3px solid red;
+}
+
+
+#mari{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+#mari img{
+    width: 500px;
+    height: 400px;
+}
